@@ -26,7 +26,7 @@ Secondary skills:
 ### 🧙🏻‍♂️ Hobbies
  - Programming (Of course)
  - Spending time with my girlfriend
- - Gaming (Arma, Counter-Strike, Factorio/Satisfactory, KCD2, and many more!)
+ - Gaming (Arma, Counter-Strike, Factorio/Satisfactory, KCD2, World of Warcraft, and many more!)
  - Indie game development using Godot
  - Playing with my cat (Angora) 😼
    <br /><br /><br /><br /><br />
