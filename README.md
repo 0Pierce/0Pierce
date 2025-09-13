@@ -28,7 +28,7 @@ Secondary skills:
  - Spending time with my girlfriend
  - Gaming (Arma, Counter-Strike, Factorio/Satisfactory, KCD2, and many more!)
  - Indie game development using Godot
- - Playing with my cat 😼
+ - Playing with my cat (Angora) 😼
    <br /><br /><br /><br /><br />
 
 
