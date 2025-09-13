@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cat+Enthusiast+😺;Always+Learning+New+Things;Video+Game+Enthusiast+🎮&font=Fira%20Code¢er=true&width=380&height=50)
 
 
-I spend most of my time learning and playing around with code. My primary interest is building full-stack applications in various languages such as React (JSX/TSX), Java, Kotlin, C# and others. You may find some of my more notable projects below. Feel free to check them out! I've also made a lot of projects while I was in College. They aren't very fancy, but they played an important part in my developer journey. For any inquiries or communication, you can contact me at 0pierce.dev@gmail.com. Thank you for stopping by!❤️👋
+I spend most of my time learning and playing around with code. My primary interest is building full-stack applications in various languages such as React (JSX/TSX), Java, Kotlin, C# and others. You may find some of my more notable projects below. Feel free to check them out! I've also made a lot of projects while I was in College. They aren't very fancy, but they played an important part in my developer journey. For any inquiries or communication, you can contact me at 0pierce.dev@gmail.com. Thank you for stopping by!❤️👋<br /><br />
 
 ## 🤓 Overview:
 Core skills:
@@ -42,10 +42,6 @@ Secondary skills:
 
 <img src="https://github-profile-trophy.vercel.app/?username=0pierce&theme=juicyfresh&no-bg=true&hide_border=true&no-frame=true" />
 
-   <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<0Pierce>"/>  
-    </div>
 
  </div>
 <br/><br/>
