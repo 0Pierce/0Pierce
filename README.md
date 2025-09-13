@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cat+Enthusiast+😺;Always+Learning+New+Things;Video+Game+Enthusiast+🎮&font=Fira%20Code¢er=true&width=380&height=50)
 
 
-I spend most of my time learning and playing around with code. My primary interest is building full-stack applications in various languages such as React (JSX/TSX), Java, Kotlin, and C# and others. You may find some of my more notable projects below. Feel free to check them out! I've also made a lot of projects while I was in College. They aren't very fancy, but they played an important part in my developer journey. For any inquiries or communication, you can contact me at 0pierce.dev@gmail.com. Thank you for stopping by!❤️👋
+I spend most of my time learning and playing around with code. My primary interest is building full-stack applications in various languages such as React (JSX/TSX), Java, Kotlin, C# and others. You may find some of my more notable projects below. Feel free to check them out! I've also made a lot of projects while I was in College. They aren't very fancy, but they played an important part in my developer journey. For any inquiries or communication, you can contact me at 0pierce.dev@gmail.com. Thank you for stopping by!❤️👋
 
 ## 🤓 Overview:
 Core skills:
@@ -21,7 +21,7 @@ Secondary skills:
 
 <div width="100%" align="center"><a href="https://github.com/0Pierce/YouWatch-Public" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=YouWatch-Public&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide_border=false&locale=en" /></a><a href="https://github.com/0Pierce/AR-Furniture-Demo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=AR-Furniture-Demo&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide_border=false&locale=en" /></a> </div><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/0Pierce/School-Work" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=School-Work&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide_border=false&locale=en" /></a><a href="https://github.com/0Pierce/Arma3_AltisLife_Warzone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=Arma3_AltisLife_Warzone&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide_border=false&locale=en" /></a> </div><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/0Pierce/School-Work" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=School-Work&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide_border=false&locale=en" /></a><a href="https://github.com/0Pierce/Postfix-Game-Website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=Postfix-Game-Website&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide_border=false&locale=en" /></a> </div><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ### 🧙🏻‍♂️ Hobbies
  - Programming (Of course)
