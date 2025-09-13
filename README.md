@@ -42,6 +42,11 @@ Secondary skills:
 
 <img src="https://github-profile-trophy.vercel.app/?username=0pierce&theme=juicyfresh&no-bg=true&hide_border=true&no-frame=true" />
 
+   <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<0Pierce>"/>  
+    </div>
+
  </div>
 <br/><br/>
 
