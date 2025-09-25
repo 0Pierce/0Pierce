@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/RBDvGBctvzj4IYHUWh/giphy.gif" width="80" align="left"/>
 
-# Hi, I'm Pierce   
+
+# 🐱 Hi, I'm Pierce   
 
 
 
