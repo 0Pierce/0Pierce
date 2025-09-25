@@ -1,9 +1,14 @@
-# 😺 Hi, I'm Pierce
+<img src="https://media.giphy.com/media/RBDvGBctvzj4IYHUWh/giphy.gif" width="80" align="left"/>
+
+# Hi, I'm Pierce   
+
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cat+Enthusiast+😺;Always+Learning+New+Things;Video+Game+Enthusiast+🎮&font=Fira%20Code¢er=true&width=380&height=50&color=9EECFF)
 
 
 I spend most of my time learning and playing around with code. My primary interest is building full-stack applications in various languages such as React (JSX/TSX), Java, Kotlin, C# and others. You may find some of my more notable projects below. Feel free to check them out! I've also made a lot of projects while I was in College. They aren't very fancy, but they played an important part in my developer journey. For any inquiries or communication, you can contact me at 0pierce.dev@gmail.com. Thank you for stopping by!❤️👋<br /><br />
-
+![Alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ## 🤓 Overview:
 Core skills:
 
@@ -19,9 +24,37 @@ Secondary skills:
 
 ### 📋 Notable Projects
 
-<div width="100%" align="center"><a href="https://github.com/0Pierce/YouWatch-Public" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=YouWatch-Public&title_color=9EECFF&text_color=9198a1&icon_color=9198a1&bg_color=0d1117&hide_border=false&locale=en&border_color=9198a1" /></a><a href="https://github.com/0Pierce/AR-Furniture-Demo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=AR-Furniture-Demo&title_color=9EECFF&text_color=9198a1&icon_color=9198a1&bg_color=0d1117&hide_border=false&locale=en&border_color=9198a1" /></a> </div><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/0Pierce/School-Work" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=School-Work&title_color=9EECFF&text_color=9198a1&icon_color=9198a1&bg_color=0d1117&hide_border=false&locale=en&border_color=9198a1" /></a><a href="https://github.com/0Pierce/Postfix-Game-Website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=Postfix-Game-Website&title_color=9EECFF&text_color=9198a1&icon_color=9198a1&bg_color=0d1117&hide_border=false&locale=en&border_color=9198a1" /></a> </div><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/0Pierce/YouWatch-Public">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=YouWatch-Public&title_color=9EECFF&text_color=9198a1&icon_color=9198a1&bg_color=0d1117&hide_border=true&locale=en&border_color=9198a1" />
+      </a>
+           <a href="https://github.com/0Pierce/Postfix-Game-Website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=Postfix-Game-Website&title_color=9EECFF&text_color=9198a1&icon_color=9198a1&bg_color=0d1117&hide_border=true&locale=en&border_color=9198a1" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/0Pierce/AR-Furniture-Demo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=AR-Furniture-Demo&title_color=9EECFF&text_color=9198a1&icon_color=9198a1&bg_color=0d1117&hide_border=true&locale=en&border_color=9198a1" />
+      </a>
+            <a href="https://github.com/0Pierce/School-Work">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0Pierce&repo=School-Work&title_color=9EECFF&text_color=9198a1&icon_color=9198a1&bg_color=0d1117&hide_border=true&locale=en&border_color=9198a1" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+ <br/><br/>
+
+
+
+
+
 
 ### 🧙🏻‍♂️ Hobbies
  - Programming (Of course)
@@ -33,9 +66,12 @@ Secondary skills:
 
 
 
+
+ ![Alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <div width="100%" align="center">
- <hr><h3>🪄 My GitHub Stats</h3><hr/>
+ <h3>🪄 My GitHub Stats</h3>
  
+ ![Alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <a href="http://www.github.com/0Pierce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0Pierce&stroke=ffffff&background=0d1117&ring=9EECFF&fire=FFA500&currStreakNum=ffffff&currStreakLabel=9EECFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0pierce&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=9EECFF" alt="ovi" /><br/><br/><br/>
