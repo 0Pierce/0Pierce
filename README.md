@@ -2,11 +2,10 @@
 
 
 <p>
-  <img src="assets/catFishing.gif" width="95" align="right"/>
+  <img src="assets/catFishing.png" width="70" align="right"/>
   <h1>😺 Hi, I'm Pierce</h1>
   
 </p>   
-
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cat+Enthusiast+😺;Casual+Fishing+Enthusiast+🦈;Video+Game+Enthusiast+🎮&font=Fira%20Code¢er=true&width=380&height=50&color=9EECFF)
