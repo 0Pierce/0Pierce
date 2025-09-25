@@ -1,14 +1,19 @@
 
 
-# 🐱 Hi, I'm Pierce   
+
+<p>
+  <img src="assets/catFishing.gif" width="90" align="right"/>
+  <h1>😺 Hi, I'm Pierce</h1>
+  
+</p>   
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cat+Enthusiast+😺;Always+Learning+New+Things;Video+Game+Enthusiast+🎮&font=Fira%20Code¢er=true&width=380&height=50&color=9EECFF)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cat+Enthusiast+😺;Casual+Fishing+Enthusiast+🦈;Video+Game+Enthusiast+🎮&font=Fira%20Code¢er=true&width=380&height=50&color=9EECFF)
 
 
 I spend most of my time learning and playing around with code. My primary interest is building full-stack applications in various languages such as React (JSX/TSX), Java, Kotlin, C# and others. You may find some of my more notable projects below. Feel free to check them out! I've also made a lot of projects while I was in College. They aren't very fancy, but they played an important part in my developer journey. For any inquiries or communication, you can contact me at 0pierce.dev@gmail.com. Thank you for stopping by!❤️👋<br /><br />
-![Alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![Alt text](/assets/thinLine.gif)
 ## 🤓 Overview:
 Core skills:
 
@@ -67,11 +72,11 @@ Secondary skills:
 
 
 
- ![Alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![Alt text](/assets/thinLine.gif)
 <div width="100%" align="center">
  <h3>🪄 My GitHub Stats</h3>
  
- ![Alt text](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![Alt text](/assets/thinLine.gif)
 
 <a href="http://www.github.com/0Pierce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0Pierce&stroke=ffffff&background=0d1117&ring=9EECFF&fire=FFA500&currStreakNum=ffffff&currStreakLabel=9EECFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0pierce&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=9EECFF" alt="ovi" /><br/><br/><br/>
