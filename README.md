@@ -2,7 +2,7 @@
 
 
 <p>
-  <img src="assets/catFishing.gif" width="90" align="right"/>
+  <img src="assets/catFishing.gif" width="95" align="right"/>
   <h1>😺 Hi, I'm Pierce</h1>
   
 </p>   
